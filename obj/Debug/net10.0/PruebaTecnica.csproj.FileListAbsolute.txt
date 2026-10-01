@@ -150,3 +150,5 @@ C:\git\PruebaTecnica\obj\Debug\net10.0\refint\PruebaTecnica.dll
 C:\git\PruebaTecnica\obj\Debug\net10.0\PruebaTecnica.pdb
 C:\git\PruebaTecnica\obj\Debug\net10.0\PruebaTecnica.genruntimeconfig.cache
 C:\git\PruebaTecnica\obj\Debug\net10.0\ref\PruebaTecnica.dll
+C:\git\PruebaTecnica\obj\Debug\net10.0\PruebaTecnica.sourcelink.json
+C:\git\PruebaTecnica\bin\Debug\net10.0\BCrypt-Net-Next.dll

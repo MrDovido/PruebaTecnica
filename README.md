@@ -11,5 +11,13 @@
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone https://github.com/MrDovido/PruebaTecnica
    cd PruebaTecnica
+
+2. **Instalar net**
+   https://dotnet.microsoft.com/es-es/download/dotnet/10.0
+
+
+3. **Correr el programa**
+   ```bash
+   dotnet run
